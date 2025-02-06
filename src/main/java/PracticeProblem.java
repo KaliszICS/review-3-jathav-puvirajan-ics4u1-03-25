@@ -68,6 +68,7 @@ public class PracticeProblem {
 	}
 
 	public static void q7() {
+
 		Scanner in = new Scanner(System.in);
 		System.out.print("In: ");
 		double n1 = in.nextDouble();
@@ -76,7 +77,7 @@ public class PracticeProblem {
 		double n2 = in.nextDouble();
 		in.nextLine();
 		System.out.println(n1 > n2);
-		
+
 	}
 
 }
